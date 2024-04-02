@@ -1,5 +1,5 @@
 # Basic this the orginal files
-FROM node:slim
+FROM node:lts-slim
 
 WORKDIR /usr/app
 COPY ./package.json .
