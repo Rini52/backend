@@ -1,4 +1,4 @@
-# Basic this the orginal file
+# Basic this the orginal files
 FROM node:slim
 
 WORKDIR /usr/app
